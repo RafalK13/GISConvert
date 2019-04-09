@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GISConvert", "GISConvert\GISConvert.csproj", "{62B7DFD7-99A0-4784-AACE-A3A92F889F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GISConvertAPP", "GISConvertAPP\GISConvertAPP.csproj", "{81622853-2250-4F09-9260-C26A2AD40D54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62B7DFD7-99A0-4784-AACE-A3A92F889F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B7DFD7-99A0-4784-AACE-A3A92F889F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B7DFD7-99A0-4784-AACE-A3A92F889F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B7DFD7-99A0-4784-AACE-A3A92F889F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81622853-2250-4F09-9260-C26A2AD40D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81622853-2250-4F09-9260-C26A2AD40D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81622853-2250-4F09-9260-C26A2AD40D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81622853-2250-4F09-9260-C26A2AD40D54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50E71876-9274-4845-8ABB-FE2B5572A8D1}
+	EndGlobalSection
+EndGlobal

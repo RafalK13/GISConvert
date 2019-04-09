@@ -1,0 +1,12 @@
+H:\C#JSON\GISConvert\GISConvertAPP\bin\Debug\GISConvertAPP.exe.config
+H:\C#JSON\GISConvert\GISConvertAPP\bin\Debug\GISConvertAPP.exe
+H:\C#JSON\GISConvert\GISConvertAPP\bin\Debug\GISConvertAPP.pdb
+H:\C#JSON\GISConvert\GISConvertAPP\bin\Debug\Newtonsoft.Json.dll
+H:\C#JSON\GISConvert\GISConvertAPP\bin\Debug\Newtonsoft.Json.pdb
+H:\C#JSON\GISConvert\GISConvertAPP\bin\Debug\Newtonsoft.Json.xml
+H:\C#JSON\GISConvert\GISConvertAPP\obj\Debug\GISConvertAPP.csprojResolveAssemblyReference.cache
+H:\C#JSON\GISConvert\GISConvertAPP\obj\Debug\GISConvertAPP.csproj.CoreCompileInputs.cache
+H:\C#JSON\GISConvert\GISConvertAPP\obj\Debug\GISConvertAPP.exe
+H:\C#JSON\GISConvert\GISConvertAPP\obj\Debug\GISConvertAPP.pdb
+H:\C#JSON\GISConvert\GISConvertAPP\bin\Debug\GISConvert.dll
+H:\C#JSON\GISConvert\GISConvertAPP\bin\Debug\GISConvert.pdb
